@@ -619,7 +619,6 @@ elif nav == "Prediction":
 
 elif nav =="About me":
     st.header("Budi Pribadi")
-    st.image("IMG-20220504-WA0038.jpg", width=200)
-
+    
     st.write('''**08161622331**''')
     st.write('''**bepe125@gmail.com**''')
